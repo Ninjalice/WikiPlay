@@ -1,6 +1,6 @@
 # WIKIPLAY
 
-![Photo](photo.jpg)
+![Photo](project_image.jpg)
 ----------------------------------------------------------------
 The wikipedia game that is played by surfing from a ARTICLE A to an ARTICLE B using the hyperlinks of a wikipedia page. This game can only be played in LAN.
 
